@@ -66,5 +66,3 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 - **Marketing analytics:** CR, AOV, CAC, ROAS, RPV; channel comparison and weekly pacing.
 - **Data handling:** Excel → Looker Studio connector; correct typing (GBP/Percent); **weighted** calculations for reliable totals.
 - **Publishing & sharing:** view-only link suitable for stakeholders and portfolio reviewers.
-
----
