@@ -38,7 +38,7 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 
 **By-channel table (centre)**
 - *Channel | Sessions | Orders | CR | Adj_spend (£) | Revenue (£) | CAC (£) | ROAS | AOV (£)*  
-- Sorted by **Revenue** (desc). Optional heatmap on **CR/ROAS** for quick scanning.
+- Sorted by **Revenue** (desc). Heatmap on **CR/ROAS** for quick scanning.
 
 **Weekly trend (bottom)**
 - **Spend (£)** and **Orders** across ISO weeks (dual axis, data markers enabled).  
