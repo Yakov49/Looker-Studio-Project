@@ -26,7 +26,6 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 - `AOV = SUM(Revenue) / SUM(Orders)` *(£ per order)*
 - `CAC = SUM(Adj_spend) / SUM(Orders)` *(£ per order)*
 - `ROAS = SUM(Revenue) / SUM(Adj_spend)`
-- *(Optional)* `RPV = SUM(Revenue) / SUM(Sessions)`
 
 ---
 
