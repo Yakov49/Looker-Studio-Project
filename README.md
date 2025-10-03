@@ -68,12 +68,3 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 - **Publishing & sharing:** view-only link suitable for stakeholders and portfolio reviewers.
 
 ---
-
-## Reproduce (outline)
-1. Connect Excel to Looker Studio (File Upload or via Google Sheets).
-2. Add `channel_summary` and `weekly_summary` as data sources.
-3. Build:
-   - KPI scorecards (Sessions, ROAS, Orders, CR, Revenue £)
-   - By-channel table with the metrics shown
-   - Line chart: **Week** vs **Spend** (+ **Orders** on a second axis)
-4. Share → **Anyone with the link (Viewer)**.
