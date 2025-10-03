@@ -58,7 +58,6 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 - The dashboard provides a **clear, audit-able view** of channel performance and weekly pacing, suitable for marketing **optimisation** and budgeting conversations.  
 - **Weighted KPIs** ensure accuracy at both total and segmented levels, avoiding average-of-averages pitfalls.  
 - Stakeholders can quickly pinpoint **efficient channels** (high ROAS/CR, sensible CAC) and identify **weeks with unusual movement** to investigate (e.g., late-period drops that may be partial weeks).  
-- Recommended next steps: add campaign-level breakdowns, include **targets** (e.g., ROAS ≥ 5, CAC ≤ £X), and blend any cost/revenue sources if they sit in separate tabs.
 
 ---
 
@@ -73,15 +72,8 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 ## Reproduce (outline)
 1. Connect Excel to Looker Studio (File Upload or via Google Sheets).
 2. Add `channel_summary` and `weekly_summary` as data sources.
-3. Create the weighted calculated fields exactly as listed above.
-4. Build:
+3. Build:
    - KPI scorecards (Sessions, ROAS, Orders, CR, Revenue £)
    - By-channel table with the metrics shown
    - Line chart: **Week** vs **Spend** (+ **Orders** on a second axis)
-5. Share → **Anyone with the link (Viewer)**.
-
----
-
-## Screenshot
-Replace the placeholder at the top with your image path, for example:  
-`![Dashboard hero](images/looker_dashboard.jpg)`
+4. Share → **Anyone with the link (Viewer)**.
