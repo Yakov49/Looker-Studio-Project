@@ -28,9 +28,6 @@ It uses a Channel filter and **calculated, weighted metrics** so totals remain c
 - `ROAS = SUM(Revenue) / SUM(Adj_spend)`
 - *(Optional)* `RPV = SUM(Revenue) / SUM(Sessions)`
 
-> **Formatting:** monetary fields in **GBP**; rates as **Percent**.  
-> Weekly trend uses `Week` as a numeric x-axis with a dual-axis **Line** chart.
-
 ---
 
 ## Dashboard Overview
